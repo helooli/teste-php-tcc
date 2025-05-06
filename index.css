@@ -1,0 +1,85 @@
+header {
+
+    text-align: center;
+    
+}
+
+
+.navegacao a {
+
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+.navegacao li {
+
+    display: inline;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none; 
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0.7;
+    
+
+}
+
+#culinaria {
+
+    background-color: rgb(53, 160, 53);
+
+}
+
+#PontosTurísticos {
+
+    background-color: #ff3131
+
+}
+
+#HistóriaeCuriosidades {
+
+    background-color: #38b6ff;
+}
+
+#Hotelaria {
+
+    background-color: #ffde59;
+}
+
+#CulturaeFestas {
+
+    background-color: #ff914d;
+}
+
+input{
+    margin-left: 80%;
+    width: 250px;
+}
+
+input[type=text]::placeholder {
+    text-align: right; /*    Alinha o texto do placeholder para a direita */
+    padding-right: 60px; /* Adiciona um espaço à direita para o texto */
+    
+  }
+
+ .HistoriadeParanagua {
+
+    width: 200%;
+
+ }
+
+.imagem {
+
+    float: left;
+    font-size: 200%;
+    margin-right: 1%; /* Espaço entre a imagem e o texto */
+
+} 
+
+p {
+
+    text-align: center;
+
+}
